@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770652217.36806 "/home/devmynuts/Documents/Personal/my-resume-latex/Resume-Leonardo-Grau.tex" "Resume-Leonardo-Grau.pdf" "Resume-Leonardo-Grau" 1770652217.46729 2
-  "/home/devmynuts/Documents/Personal/my-resume-latex/Resume-Leonardo-Grau.tex" 1770652216.97593 8472 ce9987b48256baf9a9be8a4584c727d9 ""
+["pdflatex"] 1770937411.58836 "/home/devmynuts/Documents/Personal/my-resume-latex/Resume-Leonardo-Grau.tex" "Resume-Leonardo-Grau.pdf" "Resume-Leonardo-Grau" 1770937411.6835 2
+  "/home/devmynuts/Documents/Personal/my-resume-latex/Resume-Leonardo-Grau.tex" 1770937411.20273 7710 89984d22cdcd0844201b6efb6a1f7b4e ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1764115200 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1764115200 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
@@ -9,8 +9,8 @@
   "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1764115200 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1770573082 6447582 cf41ba88ec708288b0f617d14cb69069 ""
-  "Resume-Leonardo-Grau.aux" 1770652209.36734 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Resume-Leonardo-Grau.tex" 1770652216.97593 8472 ce9987b48256baf9a9be8a4584c727d9 ""
+  "Resume-Leonardo-Grau.aux" 1770937403.58754 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Resume-Leonardo-Grau.tex" 1770937411.20273 7710 89984d22cdcd0844201b6efb6a1f7b4e ""
   (generated)
   "Resume-Leonardo-Grau.aux"
   "Resume-Leonardo-Grau.log"
